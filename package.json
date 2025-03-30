@@ -16,6 +16,8 @@
     "@angular/forms": "^19.2.0",
     "@angular/platform-browser": "^19.2.0",
     "@angular/platform-browser-dynamic": "^19.2.0",
+    "@isp/xdce-arch-core": "1.1.1",
+    "@isp/xdce-arch-plug-impl": "2.2.2",    
     "@angular/router": "^19.2.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
